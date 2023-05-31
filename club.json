@@ -1,4 +1,5 @@
- [
+{
+  "clubs": [
     {
       "id": 1,
       "name": "Manchester United",
@@ -96,3 +97,4 @@
       "song": "Oh, we're the famous Newcastle United,\nAnd we're going to Wembley,\nWe'll be there, we'll be there,\nWe'll be there in our black and white,\nWe'll be there, we'll be there,\nWe'll be there in our black and white!"
     }
   ]
+}
